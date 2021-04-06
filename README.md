@@ -1,0 +1,10 @@
+- 👋 Hi, I’m Punit aka Lilhakr
+- 👀 I’m interested in computers be it any part from hardware to software from webapp to standalone. 
+- 🌱 I’m currently learning python, java, selenium, html, css, javascript, AI, ML
+- 💞️ I’m looking to collaborate ...
+- 📫 How to reach me punit461bhardwaj@gmail.com
+
+<!---
+punit461/punit461 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
