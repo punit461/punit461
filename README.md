@@ -1,7 +1,6 @@
-- 👋 Hi, I’m Punit aka Lilhakr
+- 👋 Hi, I’m Punit
 - 👀 I’m interested in computers be it any part from hardware to software from webapp to standalone. 
-- 🌱 I’m currently learning python, java, javascript, selenium, webdriverIO, html, css, AI, ML
-- 💞️ I’m looking to collaborate ...
+- 🌱 Currently learning python, java, javascript, selenium, webdriverIO, html, css, AI, ML
 - 📫 How to reach me punit461bhardwaj@gmail.com
 - 🧭 My Resume Website https://punit461.github.io/Curriculum-vitae.github.io/ 
 
