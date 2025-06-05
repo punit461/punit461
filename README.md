@@ -1,65 +1,118 @@
-<!-- Punit Bharadwaj | GitHub Profile README -->
+<div align="center">
 
-<h1 align="center">Hi 👋, I'm Punit Bharadwaj</h1>
-<h3 align="center">AI/ML Engineer | Building AI Agents, Computer Vision Systems, and LLM Apps</h3>
+# 👋 Hey, I'm Punit Bharadwaj
 
-<p align="center">
-  <a href="https://github.com/punit461"><img src="https://komarev.com/ghpvc/?username=punit461&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/></a>
-  <a href="mailto:punit461bhardwaj@gmail.com"><img src="https://img.shields.io/badge/Email-Me-red?style=flat&logo=gmail"></a>
-  <a href="https://www.linkedin.com/in/punit461bhardwaj"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin"></a>
-</p>
+### 🚀 AI/ML Engineer | Building Tomorrow's AI Today
+
+*Crafting intelligent systems that bridge the gap between cutting-edge research and real-world impact*
 
 ---
 
-### 🧠 What I Do
-- 🤖 Build RAG chatbots, AI Agents & Generative AI solutions
-- 🧪 Deploy scalable Computer Vision systems (YOLO, OpenCV, DeepFace)
-- 🔄 Automate with FastAPI, Selenium, and Python Backends
-- 🗃 Integrate AI with real-time data (SQL, Postgres, RTSP, APIs)
+</div>
+
+## 🎯 What I'm Building
+
+🤖 **AI Agents & LLMs** - RAG systems, multi-agent workflows, and conversational AI  
+👁️ **Computer Vision** - Real-time object detection, face recognition, and visual automation  
+⚡ **MLOps & Deployment** - Production-ready ML pipelines and scalable AI infrastructure  
+🔗 **AI Integration** - Connecting AI capabilities with existing systems via FastAPI & REST
 
 ---
 
-### ⚡ Tech Stack
-![Python](https://img.shields.io/badge/-Python-333?logo=python&logoColor=ffdd54)
-![FastAPI](https://img.shields.io/badge/-FastAPI-333?logo=fastapi)
-![OpenCV](https://img.shields.io/badge/-OpenCV-333?logo=opencv)
+## 🛠️ Tech Arsenal
+
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![YOLO](https://img.shields.io/badge/-YOLO-333?logo=yolo)
-![Docker](https://img.shields.io/badge/-Docker-333?logo=docker)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333?logo=postgresql)
 ![GCP](https://img.shields.io/badge/-GCP-333?logo=googlecloud)
 ![Azure](https://img.shields.io/badge/-Azure-333?logo=microsoftazure)
 ![Langchain](https://img.shields.io/badge/-Langchain-333?logo=chainlink)
 ![LLMs](https://img.shields.io/badge/-LLMs-333?logo=openai)
 
----
+</div>
 
-### 📌 Featured Projects
-- **🧠 Assisto AI**: Agentic bot with DB + Email + Meeting scheduling
-- **🤖 Bubu AI**: RAG-based chatbot for school ERP platform
-- **🔍 Smart Attendance**: RTSP + YOLO + DeepFace for real-time tracking
-- **🧪 CV Testing**: Vision system to auto-verify UI with OpenCV
-- **🛠 AI Email Drafter**: Inbox-aware response generator
-
-👉 [View All Projects](https://github.com/punit461?tab=repositories)
+**AI/ML:** LangChain, Hugging Face, YOLO, LLaMA, RAG, Vector DBs, Ollama
+**Cloud:** Azure, GCP, Docker, Nginx Load Balancing  
+**Backend:** FastAPI, Flask, REST APIs, Linux Systems
 
 ---
 
-### 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=punit461&theme=tokyonight&hide_border=true" />
-<!--   <br/> -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=punit461&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+## 🏆 Featured Projects
+
+### 🧠 [AI Agent Ecosystem](https://github.com/punit461)
+Multi-agent system with memory, tool usage, and autonomous task execution
+
+### 👁️ [Smart Vision Suite](https://github.com/punit461) 
+Real-time computer vision pipeline: Face recognition + Object tracking + Anomaly detection
+
+### 🤖 [Enterprise RAG Platform](https://github.com/punit461)
+Production-ready RAG system with custom embeddings and multi-modal support
+
+### ⚡ [CV Testing Framework](https://github.com/punit461)
+Automated visual regression testing using OpenCV - *40% reduction in manual QA*
 
 ---
 
-### 🚀 Currently Exploring
-- 🧩 Multi-Agent Systems with memory and tools
-- 🧠 LLMOps and Retrieval-Augmented Generation
-- 🛰 Edge deployment of CV models
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=punit461&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=punit461&layout=compact&theme=tokyonight"/>
+
+</div>
+
+<div align="center">
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=punit461&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+
+</div>
 
 ---
 
-> ⚡ *"Building AI that works in the real world."*  
-> — Punit Bharadwaj
+## 🌟 Recent Achievements
 
+- 🏅 **Innovative Visionary Award** - NSPLUS Technologies (2024)
+- 🤝 **Collaboration Excellence** - Team leadership & knowledge transfer
+- ⚡ **40% Manual Effort Reduction** - Through AI automation solutions
+
+---
+
+## 📫 Let's Connect
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/punit461bhardwaj)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:punit461bhardwaj@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/punit461)
+
+</div>
+
+---
+
+## 🚀 Currently Exploring
+
+<div align="center">
+
+
+- 🧩 Multi-Agent Systems with memory and tools, A2A, ADK, MCP, Langchain, Langgraph, LangSmith etc.,
+- 🧠 LLMOps and Retrieval-Augmented Generation, Multi Agentic System with Short term and Long term memory use cases, 
+- 🛰 Edge deployment of CV models, ML models deployment for audio & signal processing for IOT use cases.
+
+</div>
+
+---
+
+<div align="center">
+
+### 💡 *"AI is not just about algorithms; it's about creating solutions that make a difference"*
+
+![Profile Views](https://komarev.com/ghpvc/?username=punit461&style=flat-square&color=blue)
+
+</div>
