@@ -29,11 +29,12 @@
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![YOLO](https://img.shields.io/badge/-YOLO-333?logo=yolo)
-![GCP](https://img.shields.io/badge/-GCP-333?logo=googlecloud)
-![Azure](https://img.shields.io/badge/-Azure-333?logo=microsoftazure)
-![Langchain](https://img.shields.io/badge/-Langchain-333?logo=chainlink)
-![LLMs](https://img.shields.io/badge/-LLMs-333?logo=openai)
+![YOLO](https://img.shields.io/badge/YOLO-333?style=for-the-badge&logo=yolo&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Langchain](https://img.shields.io/badge/LangChain-1D4ED8?style=for-the-badge&logo=chainlink&logoColor=white)
+![LLMs](https://img.shields.io/badge/LLMs-4B0082?style=for-the-badge&logo=openai&logoColor=white)
+
 
 </div>
 
@@ -91,6 +92,7 @@ Automated visual regression testing using OpenCV - *40% reduction in manual QA*
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/punit461bhardwaj)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:punit461bhardwaj@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/punit461)
+![Profile Views](https://komarev.com/ghpvc/?username=punit461&style=flat-square&color=blue)
 
 </div>
 
@@ -98,21 +100,14 @@ Automated visual regression testing using OpenCV - *40% reduction in manual QA*
 
 ## 🚀 Currently Exploring
 
-<div align="center">
-
-
 - 🧩 Multi-Agent Systems with memory and tools, A2A, ADK, MCP, Langchain, Langgraph, LangSmith etc.,
 - 🧠 LLMOps and Retrieval-Augmented Generation, Multi Agentic System with Short term and Long term memory use cases, 
 - 🛰 Edge deployment of CV models, ML models deployment for audio & signal processing for IOT use cases.
-
-</div>
 
 ---
 
 <div align="center">
 
 ### 💡 *"AI is not just about algorithms; it's about creating solutions that make a difference"*
-
-![Profile Views](https://komarev.com/ghpvc/?username=punit461&style=flat-square&color=blue)
 
 </div>
