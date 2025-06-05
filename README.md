@@ -1,7 +1,7 @@
 <!-- Punit Bharadwaj | GitHub Profile README -->
 
 <h1 align="center">Hi 👋, I'm Punit Bharadwaj</h1>
-<h3 align="center">AI/ML Engineer | Building AI Agents, CV Systems, and LLM Apps</h3>
+<h3 align="center">AI/ML Engineer | Building AI Agents, Computer Vision Systems, and LLM Apps</h3>
 
 <p align="center">
   <a href="https://github.com/punit461"><img src="https://komarev.com/ghpvc/?username=punit461&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/></a>
@@ -47,7 +47,7 @@
 ### 📈 GitHub Stats
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=punit461&theme=tokyonight&hide_border=true" />
-  <br/>
+<!--   <br/> -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=punit461&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
